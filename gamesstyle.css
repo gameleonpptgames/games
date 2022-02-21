@@ -65,7 +65,7 @@ p{
     left: 0;
     width: 100%;
     height: 100%;
-/*     transform-style: preserve-3d */
+    transform-style: preserve-3d 
 }
 
 .container .box .body .imgContainer img {
@@ -84,15 +84,14 @@ p{
     left: 0;
     width: 100%;
     height: 105%;
-    /* background: linear-gradient(95deg, rgb(48, 24, 114), rgb(35, 21, 161)); */
     background: rgb(39, 16, 102); 
     transform-style: preserve-3d;
     transform: rotateY(180deg)
 }
 
-/* .container .box:hover .body {
+  .container .box:hover .body {
     transform: rotateY(180deg)
-} */
+} 
 
 .container .box .body .content div {
     transform-style: preserve-3d;
@@ -102,11 +101,11 @@ p{
     transform: translateZ(100px)
 }
 
-/* .nav-item:hover{
+ .nav-item:hover{
     background-color: #fff;
     border-radius: 20px;
 }
- */
+ 
 
 .btn{
     position: relative;
