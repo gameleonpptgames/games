@@ -90,9 +90,9 @@ p{
     transform: rotateY(180deg)
 }
 
-.container .box:hover .body {
+/* .container .box:hover .body {
     transform: rotateY(180deg)
-}
+} */
 
 .container .box .body .content div {
     transform-style: preserve-3d;
@@ -102,11 +102,11 @@ p{
     transform: translateZ(100px)
 }
 
-.nav-item:hover{
+/* .nav-item:hover{
     background-color: #fff;
     border-radius: 20px;
 }
-
+ */
 
 .btn{
     position: relative;
